@@ -23,15 +23,9 @@ Trying to one day finish my folio...
 
 ### ✔ Techs
 
-#### Front-end
-
 `Typescript, Vue.js, React.js, Svelte, Three.js, Cannon.js, Webpack, Snowpack`
 
-#### Back-end
-
 `Node.js/Deno, Symfony, Go, Python, MongoDB, Redis, MySQL, PostgreSQL`
-
-#### Ops
 
 `Docker, Linux, Jenkins`
 
