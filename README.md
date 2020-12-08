@@ -13,31 +13,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there !
+## 👋 Hi there !
 
 I am Aymeric, software developer at Lucky Cart, mostly experienced with web technologies, ex-student [@Hetic](https://www.awwwards.com/hetic/) and now studying @Gobelins in Paris.
 
-## 🔭 Current projects
+### 🔭 Current projects
 
 Trying to one day finish my folio...
 
-## ✔ Techs
+### ✔ Techs
 
-### Front-end
+#### Front-end
 
 `Typescript, Vue.js, React.js, Svelte, Three.js, Cannon.js, Webpack, Snowpack`
 
-### Back-end
+#### Back-end
 
 `Node.js/Deno, Symfony, Go, Python, MongoDB, Redis, MySQL, PostgreSQL`
 
-### Ops
+#### Ops
 
 `Docker, Linux, Jenkins`
 
-## 💌 Contact
+### 💌 Contact
 
-* Web - aymericarn.fr
 * LinkedIn - [Aymeric Arnoult](https://www.linkedin.com/in/aymeric-arnoult)
 
 Drop me line if you want to talk about any project !
