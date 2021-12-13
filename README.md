@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hi there !
 
-I am Aymeric, software developer at Lucky Cart, mostly experienced with web technologies, ex-student [@Hetic](https://www.awwwards.com/hetic/) and now studying creative dev @Gobelins in Paris.
+I am Aymeric, creative developer at Brig.ht, mostly experienced with web technologies, ex-student [@Hetic](https://www.awwwards.com/hetic/) and @Gobelins, now studying more fondamental Computer Science at Efrei, in Paris.
 
 ### 🔭 Current projects
 
