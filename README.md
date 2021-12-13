@@ -34,3 +34,7 @@ Trying to one day finish my folio...
 * LinkedIn - [Aymeric Arnoult](https://www.linkedin.com/in/aymeric-arnoult)
 
 Drop me line if you want to talk about any project !
+
+### Stats
+
+[![AyymericArn's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyymericArn)](https://github.com/anuraghazra/github-readme-stats)
