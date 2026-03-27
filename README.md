@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 
 ## 👋 Hi there !
 
-I am Aymeric, creative developer at Brig.ht, mostly experienced with web technologies, ex-student [@Hetic](https://www.awwwards.com/hetic/) and @Gobelins, now studying more fondamental Computer Science at Efrei, in Paris.
+I'm a web engineer, former creative dev, teacher, I also like to write sometimes.
 
 ### 🔭 Current projects
 
-Trying to one day finish my folio...
+Master Arch Linux and local generative AI usage
 
 ### ✔ Techs
 
-`Typescript, Vue.js, React.js, Svelte, Three.js, Cannon.js, Webpack, Snowpack`
+`Lots of Js environment : Typescript, Vue.js, React.js, Three.js...`
 
-`Node.js/Deno, Symfony, Go, Python, MongoDB, Redis, MySQL, PostgreSQL`
+`Backend: Node.js/Deno, Symfony, Go, Python, MongoDB, Redis, MySQL, PostgreSQL, Solidity, Java, C#, C++`
 
-`Docker, Linux, Jenkins`
+`Tools: Docker, Linux, Jenkins`
 
 ### 💌 Contact
 
